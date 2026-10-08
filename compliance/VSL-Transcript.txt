@@ -1,0 +1,62 @@
+================================================================================
+BOTIFYAI — OFFICIAL VIDEO SALES LETTER (VSL) COMPLIANCE TRANSCRIPT
+================================================================================
+Product Name: BotifyAI
+Vendor: FinxHost Ltd
+Marketplace: JVZoo
+Video Embed URL: https://player.vimeo.com/video/1020423297
+Video Title: BotifyAI Omnichannel AI Messaging & Automation Platform Overview
+Duration: 04:38
+Date of Record: October 2026
+
+--------------------------------------------------------------------------------
+FULL SPOKEN WORD TRANSCRIPT
+--------------------------------------------------------------------------------
+
+[00:00 - 00:32] Introduction & The Modern Messaging Problem
+"If you are running an online business, marketing agency, or e-commerce store in 2026, you already know the single biggest hurdle to scaling: customer communication. 
+
+Every single day, your potential customers are reaching out across half a dozen different channels. They are sending messages on WhatsApp, asking questions on Facebook Messenger, direct messaging you on Instagram, replying to SMS broadcasts, and sending emails. 
+
+Managing all of these fragmented platforms manually is not only exhausting, it is costing you thousands of dollars in lost leads and abandoned carts every single month."
+
+[00:32 - 01:08] The Subscription Trap
+"Up until now, your only options were to either hire expensive 24/7 support staff or juggle multiple expensive software subscriptions. 
+
+You had to pay monthly fees for ManyChat, monthly fees for Twilio, monthly fees for Zendesk, separate email autoresponders, and third-party AI tools. 
+
+Before you know it, you are spending hundreds, if not thousands, of dollars every single month just to keep your basic communication stack running."
+
+[00:08 - 01:52] Introducing BotifyAI
+"That all changes today. Welcome to BotifyAI — the world's first true all-in-one omnichannel customer messaging and AI automation platform. 
+
+BotifyAI combines official Meta WhatsApp Business Cloud API integration, Facebook Messenger automation, Instagram DM automation, SMS marketing, and email broadcasting into a single, unified team inbox. 
+
+And at the heart of BotifyAI is our next-generation multi-LLM artificial intelligence engine powered by OpenAI GPT-4o, Anthropic Claude, and Google Gemini."
+
+[01:52 - 02:40] Retrieval-Augmented Generation (RAG) & Custom Knowledge Bases
+"Unlike ordinary generic chatbots that hallucinate or make up false information, BotifyAI uses advanced Retrieval-Augmented Generation (RAG). 
+
+You can upload your company documents, product catalogues, PDF manuals, website URLs, and custom FAQs directly into your private knowledge base. 
+
+Your AI chatbots will instantly learn everything about your business and answer customer inquiries with 100% factual accuracy, in real time, 24 hours a day, 7 days a week, in over 95 languages."
+
+[02:40 - 03:22] Visual Flow Builder & Live E-Commerce Sync
+"Need custom automation workflows? Our visual drag-and-drop workflow canvas lets you design sophisticated customer journeys in minutes. With over 50 node types, conditional routing, and interactive message templates, you can automate lead qualification, appointment booking, and customer support effortlessly. 
+
+Plus, with live e-commerce integration for Shopify, WooCommerce, and BigCommerce, BotifyAI automatically looks up order statuses, sends shipping notifications, and recovers abandoned carts directly inside WhatsApp and Messenger."
+
+[03:22 - 04:02] Mobile Companion App & Commercial Rights
+"Whether you are at your desk or on the move, your team can manage customer conversations seamlessly using our native Flutter mobile companion app for iOS and Android. 
+
+And best of all, during this special launch offer, your purchase includes a full Commercial License. You can create isolated workspaces for your clients, deliver fully managed AI customer messaging services, and keep 100% of the fees you charge."
+
+[04:02 - 04:38] Risk-Free Guarantee & Call to Action
+"You are completely protected by our 30-Day 100% Money-Back Guarantee. Try BotifyAI in your business today. If you are not completely thrilled with the time you save and the power of this platform, simply reach out to our support team for a full, prompt refund. 
+
+Click the buy button below right now to lock in your lifetime access at this one-time special launch price before the countdown timer expires and the price increases. Grab BotifyAI today and transform your customer messaging forever!"
+
+================================================================================
+END OF VSL TRANSCRIPT
+================================================================================
+
